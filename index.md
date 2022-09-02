@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Amber's First CS193 Homework
+
+- The instructors are pretty funny (I like the last slides)
+- I heard this class is a weeder class which makes sense
+- ummm
+- errrmm
+- :)
+- ,':1
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
